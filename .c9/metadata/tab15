@@ -1,0 +1,1 @@
+{"changed":false,"filter":false,"title":"s3.rb mybucket us-west-2 - Stopped","tooltip":"s3.rb mybucket us-west-2 - Stopped","value":"","undoManager":{"mark":-1,"position":-1,"stack":[]},"output":{"id":"output190895","width":1004,"height":213,"scrollTop":270,"config":{"runner":"Ruby","command":"s3.rb my_bucket us-west-2","toolbar":true,"name":""}}}
