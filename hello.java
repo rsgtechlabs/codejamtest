@@ -7,7 +7,7 @@ public class hello {
 
     int sum = Integer.parseInt(args[0]) + Integer.parseInt(args[1]);
 
-    System.out.format("The sum of %s and %s is %s.\n",
+    System.out.format("Test - The sum of %s and %s is %s.\n",
       args[0], args[1], Integer.toString(sum));
   }
 }
